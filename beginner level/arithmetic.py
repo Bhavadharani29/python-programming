@@ -1,0 +1,13 @@
+a=2
+b=3
+c=23
+d=13
+e=27
+f=29
+g=22
+h=45
+i=12
+j=34
+print(a+b)
+print(c*d)
+print(e/f)
